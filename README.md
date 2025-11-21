@@ -4,7 +4,7 @@
 * Run the python program.
 * You will see this window appears on the screen:
 </br>
-<img src ="https://github.com/hi-Soumya/XMLtoHTML/blob/main/GUI.png">
+<img src ="https://github.com/hi-Soumya/XMLtoHTML/blob/main/LogIQ-UI_Image.jpg">
 
 * Provide the required XML.(for example I have pasted the XML in the below screen/window)
 </br>
