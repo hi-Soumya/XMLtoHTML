@@ -6,7 +6,7 @@
 </br>
 <img src ="https://github.com/hi-Soumya/XMLtoHTML/blob/main/LogIQ-UI_Image.jpg">
 
-* Provide the required XML.(for example I have pasted the XML in the below screen/window)
+* Provide the required XML(that is a form of collection/DataTable).(for example I have pasted the XML in the below screen/window)
 </br>
 <img src = "https://github.com/hi-Soumya/XMLtoHTML/blob/main/GUI1.png">
 
